@@ -84,7 +84,8 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 ## Contact 📧
 If you have any questions, suggestions, or need assistance, feel free to reach out:
 
-- **Website**: [www.heavenslabs.org](http://www.heavenslabs.com)
+- **Website**: [www.heavenslabs.com](http://www.heavenslabs.com)
+- **Join Discussions**: Engage with the community in our [Discussions Hub](https://github.com/orgs/HeavensLabs/discussions) or [Discord server](https://discord.gg/92Z5Pj7D).
 
 ---
 
