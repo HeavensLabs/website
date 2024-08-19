@@ -6,11 +6,11 @@ Welcome to the official repository for the **Heaven's Labs** website! This repos
 
 ## Table of Contents
 - [About Heaven's Labs](#about-heavens-labs-)
-- [Repository Structure](#repository-structure)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- [Repository Structure](#repository-structure-)
+- [Getting Started](#getting-started-)
+- [Contributing](#contributing-)
+- [License](#license-)
+- [Contact](#contact-)
 
 ## About Heaven's Labs 🌟
 **Heaven's Labs** is a nonprofit organization dedicated to empowering communities through technology. We bring together students, job seekers, and professionals to collaborate on open-source projects, fostering growth, learning, and real-world experience in the field of computer science.
@@ -76,7 +76,7 @@ We welcome contributions from the community! Whether you're a developer, designe
    ```
 5. **Submit a Pull Request**: Go to the original repository and submit a pull request.
 
-Please read our [Contribution Guidelines](link-to-contributing.md) before you start working on any contributions.
+Please read our [Contribution Guidelines](CONTRIBUTING) before you start working on any contributions.
 
 ## License 📄
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this software in accordance with the license terms.
