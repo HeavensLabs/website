@@ -5,7 +5,7 @@
 Welcome to the official repository for the **Heaven's Labs** website! This repository contains the source code, content, and resources for the organization's website, which serves as the central hub for all information related to Heaven's Labs.
 
 ## Table of Contents
-- [About Heaven's Labs](#about-heavens-labs)
+- [About Heaven's Labs](#about-heavens-labs-)
 - [Repository Structure](#repository-structure)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
