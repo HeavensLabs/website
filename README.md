@@ -76,7 +76,7 @@ We welcome contributions from the community! Whether you're a developer, designe
    ```
 5. **Submit a Pull Request**: Go to the original repository and submit a pull request.
 
-Please read our [Contribution Guidelines](CONTRIBUTING.MD) before you start working on any contributions.
+Please read our [Contribution Guidelines](CONTRIBUTING.md) before you start working on any contributions.
 
 ## License 📄
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this software in accordance with the license terms.
