@@ -5,12 +5,12 @@
 Welcome to the official repository for the **Heaven's Labs** website! This repository contains the source code, content, and resources for the organization's website, which serves as the central hub for all information related to Heaven's Labs.
 
 ## Table of Contents
-- [About Heaven's Labs](#about-heavens-labs)
-- [Repository Structure](#repository-structure)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- [About Heaven's Labs](#about-heavens-labs-)
+- [Repository Structure](#repository-structure-)
+- [Getting Started](#getting-started-)
+- [Contributing](#contributing-)
+- [License](#license-)
+- [Contact](#contact-)
 
 ## About Heaven's Labs 🌟
 **Heaven's Labs** is a nonprofit organization dedicated to empowering communities through technology. We bring together students, job seekers, and professionals to collaborate on open-source projects, fostering growth, learning, and real-world experience in the field of computer science.
@@ -76,7 +76,7 @@ We welcome contributions from the community! Whether you're a developer, designe
    ```
 5. **Submit a Pull Request**: Go to the original repository and submit a pull request.
 
-Please read our [Contribution Guidelines](link-to-contributing.md) before you start working on any contributions.
+Please read our [Contribution Guidelines](CONTRIBUTING.md) before you start working on any contributions.
 
 ## License 📄
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this software in accordance with the license terms.
@@ -84,7 +84,8 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 ## Contact 📧
 If you have any questions, suggestions, or need assistance, feel free to reach out:
 
-- **Website**: [www.heavenslabs.org](http://www.heavenslabs.com)
+- **Website**: [www.heavenslabs.com](http://www.heavenslabs.com)
+- **Join Discussions**: Engage with the community in our [Discussions Hub](https://github.com/orgs/HeavensLabs/discussions) or [Discord server](https://discord.gg/92Z5Pj7D).
 
 ---
 
