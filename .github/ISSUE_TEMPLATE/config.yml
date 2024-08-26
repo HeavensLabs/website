@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "Report a Bug 🐛"
+    url: "/issues/new?template=bug_report.md"
+    about: "Something isn't working as expected? Let us know about the problem you're experiencing."
+  - name: "Request a Feature ✨"
+    url: "/issues/new?template=feature_request.md"
+    about: "Have an idea for a new feature? Share your thoughts and let's discuss it."
+  - name: "Ask a Question ❓"
+    url: "/issues/new?template=question.md"
+    about: "Need some help or clarification? Ask your question here."
