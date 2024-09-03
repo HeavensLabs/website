@@ -5,13 +5,13 @@
 Thank you for your interest in contributing to the **Heaven's Labs** website! We’re excited to have you help us improve our platform and further our mission. Before you start contributing, please take a moment to review these guidelines.
 
 ## Table of Contents
-- [How to Contribute](#how-to-contribute)
-- [Code of Conduct](#code-of-conduct)
-- [Getting Started](#getting-started)
-- [Submitting a Contribution](#submitting-a-contribution)
-- [Style Guide](#style-guide)
-- [Reporting Issues](#reporting-issues)
-- [License](#license)
+- [How to Contribute](#how-to-contribute-)
+- [Code of Conduct](#code-of-conduct-)
+- [Getting Started](#getting-started-)
+- [Submitting a Contribution](#submitting-a-contribution-)
+- [Style Guide](#style-guide-)
+- [Reporting Issues](#reporting-issues-)
+- [License](#license-)
 
 ## How to Contribute 🛠️
 
@@ -51,7 +51,7 @@ You can contribute in several ways, including:
    - Ensure that your pull request (PR) clearly describes the changes you’ve made and references any related issues.
 
 ## Code of Conduct 📜
-We follow a [Code of Conduct](link-to-code-of-conduct) that outlines our expectations for participants in our community. Please read it before contributing to ensure a welcoming and positive environment for everyone.
+We follow a [Code of Conduct](CONTRIBUTING.md) that outlines our expectations for participants in our community. Please read it before contributing to ensure a welcoming and positive environment for everyone.
 
 ## Getting Started 🚀
 1. **Clone the Repository**: 
@@ -88,7 +88,7 @@ We follow a [Code of Conduct](link-to-code-of-conduct) that outlines our expecta
 - **Comments**: Comment your code where necessary, especially for complex logic.
 
 ## Reporting Issues 🐛
-If you encounter a bug or have a feature request, please [open an issue](link-to-issues) on GitHub. Provide as much detail as possible, including steps to reproduce the issue, screenshots, and any relevant code.
+If you encounter a bug or have a feature request, please [open an issue](https://github.com/HeavensLabs/website/issues/new/choose) on GitHub. Provide as much detail as possible, including steps to reproduce the issue, screenshots, and any relevant code.
 
 ## License 📄
 By contributing to this project, you agree that your contributions will be licensed under the [MIT License](LICENSE).
