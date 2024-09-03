@@ -51,7 +51,7 @@ You can contribute in several ways, including:
    - Ensure that your pull request (PR) clearly describes the changes you’ve made and references any related issues.
 
 ## Code of Conduct 📜
-We follow a [Code of Conduct](CONTRIBUTING.md) that outlines our expectations for participants in our community. Please read it before contributing to ensure a welcoming and positive environment for everyone.
+We follow a [Code of Conduct](CODE_OF_CONDUCT.md) that outlines our expectations for participants in our community. Please read it before contributing to ensure a welcoming and positive environment for everyone.
 
 ## Getting Started 🚀
 1. **Clone the Repository**: 
