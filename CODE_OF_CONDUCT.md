@@ -57,15 +57,15 @@ If a community member engages in unacceptable behavior, the community organizers
 
 ## 7. Reporting Guidelines
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. https://discord.gg/v6PNpq42.
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. [contact](https://discord.gg/svvR5qpGCj).
 
-[Reporting guidelines](https://discord.gg/yzQUH8Vk)
+[Reporting guidelines](https://discord.gg/RbC5vQknu3)
 
 Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
 
 ## 8. Addressing Grievances
 
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify Heaven's Labs with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies. [Policy](https://discord.gg/Mm9gEgXV)
+If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify Heaven's Labs with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies. [Policy](https://discord.gg/8kVtZAdsZt)
 
 ### Note:
 We encourage a resolution process that is fair and transparent. In the event of a serious violation, the maintainers may consult with additional community leaders or external advisors to ensure an unbiased resolution. For Less Severe Issues: If the issue is minor and you feel comfortable doing so, consider addressing the person directly. Sometimes a respectful conversation can resolve misunderstandings quickly.
