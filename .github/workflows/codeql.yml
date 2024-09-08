@@ -42,7 +42,9 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        include:
+        language: ['javascript-typescript']
+        build-mode: ['automatic', 'manual']
+        # include: # For custom configuration per language
         # CodeQL supports the following values keywords for 'language': 'c-cpp', 'csharp', 'go', 'java-kotlin', 'javascript-typescript', 'python', 'ruby', 'swift'
         # Use `c-cpp` to analyze code written in C, C++ or both
         # Use 'java-kotlin' to analyze code written in Java, Kotlin or both
@@ -54,6 +56,17 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
+
+    - name: Install Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: 'lts/'
+
+    - name: Install Dependencies
+      run: npm install
+
+    - name: Build project
+      run: npm run build
 
     # Initializes the CodeQL tools for scanning.
     - name: Initialize CodeQL
@@ -77,6 +90,8 @@ jobs:
     - if: matrix.build-mode == 'manual'
       shell: bash
       run: |
+        npm run build
+        ng build
         echo 'If you are using a "manual" build mode for one or more of the' \
           'languages you are analyzing, replace this with the commands to build' \
           'your code, for example:'
