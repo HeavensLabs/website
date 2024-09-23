@@ -21,10 +21,10 @@ jobs:
         run: npm install
 
       - name: Build project
-        run: npm run build -- --base-href "/your-repository-name/"
+        run: npm run build -- --base-href "/heavenslabs.github.io/"
 
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          branch: gh-pages
-          folder: dist/your-project-name
+          branch: deploy
+          folder: dist/website
