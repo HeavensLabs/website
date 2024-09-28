@@ -23,8 +23,8 @@ jobs:
       - name: Build project
         run: npm run build -- --base-href "/"
 
-      - name: Deploy to GitHub Pages
-        uses: JamesIves/github-pages-deploy-action@v4
+      - name: Deploy GitHub Pages site
+        uses: actions/deploy-pages@v4.0.5
         with:
           branch: deploy
           folder: dist/website/browser
