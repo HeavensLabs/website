@@ -7,6 +7,10 @@ on:
 
 jobs:
   build:
+    permissions:
+      pages: write
+      id-token: write
+
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
@@ -23,6 +27,13 @@ jobs:
       - name: Build project
         run: npm run build -- --base-href "/"
 
+  deploy:
+    permissions:
+      pages: write
+      id-token: write
+
+    runs-on: ubuntu-latest
+    steps:
       - name: Deploy GitHub Pages site
         uses: actions/deploy-pages@v4.0.5
         with:
