@@ -27,6 +27,12 @@ jobs:
       - name: Build project
         run: npm run build -- --base-href "/"
 
+      - name: Upload GitHub Pages artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: github-pages
+          path: dist/website/browser
+
   deploy:
     permissions:
       pages: write
@@ -37,5 +43,4 @@ jobs:
       - name: Deploy GitHub Pages site
         uses: actions/deploy-pages@v4.0.5
         with:
-          branch: deploy
-          folder: dist/website/browser
+          artifact_name: github-pages
