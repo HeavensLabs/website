@@ -41,12 +41,12 @@ jobs:
         run: npm run build -- --base-href "/" # Angular build command with the correct output path
 
       - name: Check build output
-        run: ls -R dist/      
+        run: cd browser      
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: dist/website/browser/**  # Path to the built Angular site
+          path: dist/website/browser/  # Path to the built Angular site
           name: github-pages
           retention-days: 1
 
