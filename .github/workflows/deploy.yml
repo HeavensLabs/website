@@ -37,13 +37,18 @@ jobs:
       - name: Install dependencies
         run: npm ci  # Install dependencies using npm
 
-      - name: Build with Angular
-        run: npm run build -- --output-path=dist  # Angular build command with the correct output path
+      - name: Build project
+        run: npm run build -- --base-href "/" # Angular build command with the correct output path
+
+      - name: Check build output
+        run: ls -R dist/      
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: dist/website/browser  # Path to the built Angular site
+          name: github-pages
+          retention-days: 1
 
   # Deployment job
   deploy:
