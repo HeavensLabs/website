@@ -41,7 +41,7 @@ jobs:
         run: npm run build -- --base-href "/" # Angular build command with the correct output path
 
       - name: Check build output
-        run: cd browser      
+        run: ls dist/      
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
